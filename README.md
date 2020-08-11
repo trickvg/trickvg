@@ -12,6 +12,7 @@ I'm an IT enthusiast, who loves to learn new technologies. I'm Msc. student of C
 - 🔭 I’m currently working on NBC Bank S/A - Banco Múltiplo
 - 👯 I’m looking to collaborate on Open Source and scientist projects. 
 - 📫 How to reach me: patrickvicentegarcia@gmail.com / patrick.garcia@edu.pucrs.br
-### Fun fact
-:sparkles: I love running :runner and :weight_lifting_man:
--->
+
+[![Trickvg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickvg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Trickvg's github stats](https://github-readme-stats.vercel.app/api?username=trickvg&hide=issues&show_icons=true&theme=dark)
