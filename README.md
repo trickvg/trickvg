@@ -13,7 +13,12 @@ I'm an IT enthusiast, who loves to learn new technologies. I'm Msc. student of C
 - 👯 I’m looking to collaborate on Open Source and scientist projects. 
 - 📫 How to reach me: patrickvicentegarcia@gmail.com / patrick.garcia@edu.pucrs.br
 
-[![Trickvg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickvg&layout=compact&theme=onedark)
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickvg&hide=html&layout=compact&theme=onedark" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=trickvg&theme=onedark" /></td>
+  </tr> 
+</table> 
+</center>
 
-
-![Trickvg's github stats](https://github-readme-stats.vercel.app/api?username=trickvg&count_private=true&show_icons=true&theme=onedark&hide=stars)
