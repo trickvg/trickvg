@@ -5,10 +5,6 @@
 
 I'm an IT enthusiast, who loves to learn new technologies. I'm Msc. student of Computer Science at [a link](https://github.com/ppgcc) PUCRS.
 
-<!--
-**trickvg/trickvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on NBC Bank S/A - Banco Múltiplo
 - 👯 I’m looking to collaborate on Open Source and scientist projects. 
 - 📫 How to reach me: patrickvicentegarcia@gmail.com / patrick.garcia@edu.pucrs.br
@@ -22,3 +18,5 @@ I'm an IT enthusiast, who loves to learn new technologies. I'm Msc. student of C
 </table> 
 </center>
 
+<!--
+**trickvg/trickvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
