@@ -7,9 +7,9 @@ I'm an IT enthusiast, who loves to learn new technologies. I'm Msc. student of C
 - 📫 How to reach me: patrickvicentegarcia@gmail.com / patrick.garcia@edu.pucrs.br
 
 Would you like to find me?
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/trickvg)]
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-vicente-garcia-a1846abb/)]
-[![Researchgate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Patrick-Garcia-7/)]
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trickvg)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-vicente-garcia-a1846abb/))
+[![Researchgate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Patrick-Garcia-7/)
 
 <center>
 <table>
