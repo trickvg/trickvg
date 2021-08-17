@@ -16,11 +16,10 @@ Would you like to find me?
 [![Researchgate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Patrick-Garcia-7/)
 
 
-
-<center>
+## Language and Tools:
   [![Patrick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickvg&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
   [![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=trickvg&theme=onedark)
-</center>
+
 
 <div>
     <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
