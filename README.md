@@ -3,8 +3,8 @@
 I'm an IT enthusiast, who loves to learn new technologies. 
 
 - :man_technologist: Front-End Developer
-- :office: I’m currently working on [![MV Sistemas](https://www.mv.com.br/)]
-- :man_student: Msc. student of Computer Science at [![PPGCC - PUCRS](https://github.com/ppgcc)].
+- :office: I’m currently working on [MV Sistemas](https://www.mv.com.br/)]
+- :man_student: Msc. student of Computer Science at [PPGCC - PUCRS](https://github.com/ppgcc).
 - :nerd_face: I’m looking to collaborate on Open Source and scientist projects. 
 
 In my free time I like to run :running:, to training :muscle:, to watch and to practice sports :soccer::surfer::football:, to listen to music :musical_note: and play games :video_game:.
