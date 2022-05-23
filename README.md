@@ -2,7 +2,7 @@
 
 I'm an IT enthusiast, who loves to learn new technologies. 
 
-- :man_technologist: Front-End Developer at @ACCT-global
+- :man_technologist: Front-End Developer
 - :man_student: Msc. student of Computer Science at [PPGCC - PUCRS](https://github.com/ppgcc).
 - :nerd_face: I’m looking to collaborate on Open Source and scientist projects. 
 
