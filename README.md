@@ -9,12 +9,10 @@
 
 In my free time I like to run :running:, to training :muscle:, to watch and to practice sports :soccer::surfer::football:, to listen to music :musical_note: and play games :video_game:.
 
-Would you like to find me?
-
 <h3 align="left">Connect with me:</h3>
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trickvg)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-vicente-garcia-a1846abb/)
-[![Researchgate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Patrick-Garcia-7/)
+<p align="left">
+<a href="https://linkedin.com/in/patrick-vicente-garcia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/patrick-vicente-garcia/" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
