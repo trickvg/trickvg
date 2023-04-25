@@ -2,8 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from Brazil</h3> 
 
-- 🔭 I’m currently working on [Cia. Hering](https://ciahering.com.br/)
-- :man_student: Msc. student of Computer Science at [PPGCC - PUCRS](https://github.com/ppgcc).
+- 🔭 I’m currently working on [Cia. Hering](https://ciahering.com.br/){:target="_blank" rel="noopener"}.
+- :man_student: Msc. student of Computer Science at [PPGCC - PUCRS](https://github.com/ppgcc){:target="_blank" rel="noopener"}.
 - 👯 I’m looking to collaborate on **Open Source and scientist projects**. 
 - 📫 How to reach me **patrickvicentegarcia@gmail.com**
 
