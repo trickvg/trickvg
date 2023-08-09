@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Patrick Garcia</h1>
+![image](https://github.com/trickvg/trickvg/assets/16404725/79e533a1-9a7f-4740-8b32-f65dc73ca2c2)<h1 align="center">Hi 👋, I'm Patrick Garcia</h1>
 
-<h3 align="center">A passionate frontend developer from Brazil</h3> 
+<h3 align="center">A passionate Software Engineering from Brazil</h3> 
 
 - :man_student: Msc. student of Computer Science at [PPGCC - PUCRS](https://github.com/ppgcc).
 - 👯 I’m looking to collaborate on **Open Source and scientist projects**. 
