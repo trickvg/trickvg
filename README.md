@@ -1,4 +1,4 @@
-![image](https://github.com/trickvg/trickvg/assets/16404725/79e533a1-9a7f-4740-8b32-f65dc73ca2c2)<h1 align="center">Hi 👋, I'm Patrick Garcia</h1>
+<h1 align="center">Hi 👋, I'm Patrick Garcia</h1>
 
 <h3 align="center">A passionate Software Engineering from Brazil</h3> 
 
