@@ -27,7 +27,7 @@ Front-End Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/trickvg/https://github.com/sociedadedocalculo/sociedade-do-calculo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trickvg&repo=https://github.com/sociedadedocalculo/sociedade-do-calculo&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/trickvg/challenge1-ignite-todo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trickvg&repo=challenge1-ignite-todo&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sociedadedocalculo/sociedade-do-calculo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trickvg&repo=https://github.com/sociedadedocalculo/sociedade-do-calculo&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/trickvg/challenge1-ignite-todo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trickvg&repo=challenge1-ignite-todo&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
