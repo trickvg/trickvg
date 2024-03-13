@@ -4,10 +4,10 @@ Hi 👋 My name is Patrick Garcia
 Front-End Developer
 -------------------
 
-* 🌍  I'm based in Porto Alegre, Brazil
-* ✉️  You can contact me at [patrickvicentegarcia@gmail.com](mailto:patrickvicentegarcia@gmail.com)
-* 🧠  I'm learning GO and Cloud
+* 👨🏽‍🎓  MSc Student in Applied Computing at [Universidade do Vale do Rio dos Sinos](https://www.unisinos.br/pos/en/academic-master/applied-computing/in-person/sao-leopoldo){:target="_blank"}
+* 🧠  I'm learning Flutter and Cloud
 * 🤝  I'm open to collaborating on Open Source Projects and Technical content
+* ✉️  You can contact me at [patrickvicentegarcia@gmail.com](mailto:patrickvicentegarcia@gmail.com)
 
 ### Skills
 
